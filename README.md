@@ -2,12 +2,13 @@
 This is the Client Pseudocode
 
 # ICG58_solution, what do you guys think?
-Start
-DOWHILE ItemName==input("Item name:Ballerina,Bangs Fringes)
-get
-ItemName=input("Item name:Ballerina,Bangs Fringes)
 
-if ItemName==("Ballerina"):
+Start
+prompt items
+get
+ItemName=input("Item name:Shampoo,Bangs Fringes)
+
+if ItemName==("Shampoo"):
                   DISPLAY("You have selected Ballerina, It costs NS500")
 elseif:
 DISPLAY("this Item doesn't exist")
