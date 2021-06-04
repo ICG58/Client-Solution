@@ -8,9 +8,9 @@ prompt items
 get
 ItemName=input("Item name:Shampoo,Bangs Fringes)
 
-if ItemName==("Shampoo"):
+if ItemName==("Shampoo")
                   DISPLAY("You have selected Ballerina, It costs NS500")
-elseif:
+elseif
 DISPLAY("this Item doesn't exist")
 else:
                   DISPLAY("Bangs Fringers, It cost NS400")
@@ -22,10 +22,10 @@ get
 payment=input("How do you want to pay?: Credit card,or Cash")
 if payment==stg("Credit card"):
                    input("Enter your Credit Card number")
-else:
+else
                    DISPLAY("Something went Wrong, try again")
 
-elseif:
+elseif
                    DISPLAY("Feel free to  reach our distrubutors ischem Pharmacies Namibia and PnP Namibia Stores")
 ENDDO
 TRUE
